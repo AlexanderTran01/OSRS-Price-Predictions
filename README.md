@@ -1,7 +1,7 @@
 # OSRS-Price-Predictions-for-Items-with-High-Trade-Volume
 ML Project: Price Prediction for Runes in OSRS
 
-For context, OSRS is Old School Runescape, which is a large MMORPG (Massibe Multiplayer Online Role-Playing Game) with an equally large virtual market, where players are able to trade gold for items from other players.
+For context, OSRS is Old School Runescape, which is a large MMORPG (Massive Multiplayer Online Role-Playing Game) with an equally large virtual market, where players are able to trade gold for items from other players.
 
 There was a recent update, where the developers wanted to introduce a new prayer book (new benefits to gameplay), which was unprecedented. Initial reports from the playerbase suggested that items relating to prayer training (bones being the most common) as going up significantly in price despite it being a heavily botted item (botted meaning that there are illegal bot-players being used to drive up the supply in the market).
 
